@@ -1,0 +1,1 @@
+"Decision: Use pgvector over Pinecone to keep relational and vector data in one database."

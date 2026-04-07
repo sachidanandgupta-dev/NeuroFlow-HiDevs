@@ -1,0 +1,1 @@
+"Decision: Use Semantic Chunking to ensure context remains meaningful for the LLM."
