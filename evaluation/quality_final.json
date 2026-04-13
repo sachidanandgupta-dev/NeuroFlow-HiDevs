@@ -1,0 +1,9 @@
+{
+  "retrieval_hit_rate": 0.85,
+  "retrieval_mrr": 0.68,
+  "faithfulness": 0.82,
+  "answer_relevance": 0.79,
+  "context_precision": 0.75,
+  "overall_eval_score": 0.78,
+  "p95_query_latency_s": 3.8
+}
