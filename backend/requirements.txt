@@ -1,0 +1,4 @@
+
+bleach
+python-jose[cryptography]
+detect-secrets
